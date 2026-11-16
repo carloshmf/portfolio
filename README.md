@@ -14,7 +14,7 @@ Este projeto consiste no desenvolvimento de um portfólio pessoal moderno e resp
 * **Git / GitHub & GitHub Pages:** Controle de versão e hospedagem web.
 
 ## 🔗 Link do Site Publicado
-👉 [https://SEU_USUARIO.github.io/portfolio/](https://SEU_USUARIO.github.io/portfolio/)
+👉 https://carloshmf.github.io/portfolio/
 
 ## ⚙️ Explicação do Funcionamento
 O site funciona em página única (*single-page*), estruturado com seções bem definidas:
